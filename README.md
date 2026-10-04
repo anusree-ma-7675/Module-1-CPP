@@ -1,17 +1,17 @@
-# Module 1 Programming Foundations in C++ (Part 1-4)-Assignment Submission.
-BCA Semester 1 Assignment
+ # Module 1 Programming Foundations in C++ (Part 1-4)-Assignment Submission.
+BCA Semester 1 Assignment<br>
 Student name : Anusree MA
 
 ## 1.6 Identify the Parts
-- #include <iostream> -> the header file
-- using namespace std; -> namespace directive
-- int main() -> the main function
-- cout << "Welcome to C++"; -> the statement
-- return 0; -> return statement 
+- `#include <iostream>` -> the header file
+- `using namespace std;` -> namespace directive
+- `int main()` -> the main function
+- `cout << "Welcome to C++";` -> the statement
+- `return 0;`  -> return statement 
 
 ## 1.7 Errors
-1. Missing a semicolon after 'using namespace std'
-2. Missing a semicolon after the cout statement
+1. Missing a semicolon ';' after 'using namespace std'
+2. Missing a semicolon ';' after the 'cout statement'
 
 ## 1.8 Output Prediction
 Output: ABC
@@ -34,7 +34,7 @@ Reason: There are no newlines (endl or \n) between the statements.
 2. Create a constant for number of days in a week.
    const int days_in_week = 7;
 3. What is wrong with: const int MAX;?
-- A constant must be initialized when it is declared , therefore cont int MAX; is incorrect because it has no initial value.
+- A constant must be initialized when it is declared . therefore cont int MAX; is incorrect because it has no initial value.
 
 
 ## 4.12 Practice answers
