@@ -1,4 +1,7 @@
-// Online C++ compiler to r un C++ program online
+// Name: Anusree MA
+//Course: BCA Full Stack and AI Development
+
+
 #include <iostream>
 using namespace std;
 int main() 
